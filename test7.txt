@@ -1,0 +1,5 @@
+2024-08-23 16:18:25,126 root This is my log with timestamp)
+2024-08-23 16:21:23,244 root This is my log with timestamp)
+2024-08-23 16:21:23,244 root This is my log with timestamp)
+2024-08-23 16:22:29,918 root This is my log with timestamp)
+2024-08-23 16:22:29,918 root This is my log with timestamp with levelname)

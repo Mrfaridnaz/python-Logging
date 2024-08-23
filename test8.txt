@@ -1,0 +1,1 @@
+2024-08-23 16:24:23,515 root INFO This is my log with timestamp with levelname)
