@@ -1,0 +1,29 @@
+INFO:root:This is my code in logging
+WARNING:root:This is warning
+INFO:root:[2]
+INFO:root:[4]
+INFO:root:[6]
+INFO:root:[8]
+INFO:root:This is my code in logging
+WARNING:root:This is warning
+INFO:root:[2]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[4]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[6]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[8]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:This is my code in logging
+WARNING:root:This is warning
+ERROR:root:This is an error from logging system
+INFO:root:This is my code in logging
+WARNING:root:This is warning
+INFO:root:[2]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[4]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[6]
+INFO:root:This is the warning to the user that the have out 2 in list
+INFO:root:[8]
+INFO:root:This is the warning to the user that the have out 2 in list

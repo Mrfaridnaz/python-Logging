@@ -1,0 +1,3 @@
+INFO:root:This is my code in logging
+WARNING:root:This is warning
+ERROR:root:This is an error from logging system
